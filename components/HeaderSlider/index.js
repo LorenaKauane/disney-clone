@@ -14,19 +14,23 @@ function HeaderSlider() {
   }
 
   return (
-    <Container>
-      <SliderHeader {...settings}>
+    <SliderHeader {...settings}>
+      <Container>
         <a>
-          <img src="/images/what-if-slider.jpeg" />
+          <img src="/images/what-if-slider.jpeg" alt="" />
         </a>
+      </Container>
+      <Container>
         <a>
-          <img src="/images/star-wars-slider.jpeg" />
+          <img src="/images/star-wars-slider.jpeg" alt="" />
         </a>
+      </Container>
+      <Container>
         <a>
-          <img src="/images/monstro-trabalho-slider.jpeg" />
+          <img src="/images/monstro-trabalho-slider.jpeg" alt="" />
         </a>
-      </SliderHeader>
-    </Container>
+      </Container>
+    </SliderHeader>
   )
 }
 
