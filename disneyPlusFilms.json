@@ -1,0 +1,70 @@
+{
+  "recommend": {
+    "title": "Recomendado para Você",
+    "movies": [
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/998B96C24D46C2B67F82CCDB02A2ABCCF972B6B06B58699306CD6A960FB3DCD8/scale?width=400&aspectRatio=1.78&format=jpeg"
+      },
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DA2F33B5858824B2DF086627B8EB09509C9D04DE8AE304F739A2FB334589199E/scale?width=400&aspectRatio=1.78&format=jpeg"
+      },
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E542761D42FD2D8C9B697E45AD3E4032C832885889C12039ED886A80E27D940A/scale?width=400&aspectRatio=1.78&format=jpeg"
+      },
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5A93E9EEBC1767E0229E249A5209842E11CDFFD31BC23E3C0849DE3B325C38BA/scale?width=400&aspectRatio=1.78&format=jpeg"
+      }
+    ]
+  },
+  "news": {
+    "title": "Novidades no Disney+",
+    "movies": [
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/23BE7D0390EC91E6CD7FC7DD3FA5B9124C276BF0603D7EB4816E5B37609CACBD/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+      },
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F9B6523ABA02FBEBF359F348B35905BF5EBB89DA1460E3995A0A35BA53CE915E/scale?width=400&aspectRatio=1.78&format=jpeg"
+      },
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BAD1DA53789670682B3579ACBB78FF65125BBBC6CB17D49D484CECA081E664B6/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+      },
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0268A7E26915874F143EBF938C530E3BF8AF8C9EF972350BF2BD780DD9E298B5/scale?width=400&aspectRatio=1.78&format=jpeg"
+      }
+    ]
+  },
+  "originals": {
+    "title": "Originais",
+    "movies": [
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/23BE7D0390EC91E6CD7FC7DD3FA5B9124C276BF0603D7EB4816E5B37609CACBD/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+      },
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F3B3F890EEB9A2FB2E9BCB0041AE55B56B6462BA18080544DBDF83A7852BC7F0/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+      },
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0E3BE450795E14DDEB05EB495B0FB2D2674E70A2EF5FDC7417CC7629602034E5/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+      },
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D8925A50C3533767B03A5A9916889B29522377A094B215CC1E6C46B9C967B82D/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+      }
+    ]
+  },
+  "emmyNominee": {
+    "title": "Indicados ao Emmy®",
+    "movies": [
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/73BD7AB05F1D3B8EEF1231640233E92B5A4ABB04FA75456CDCAD0E42BB5AEBDB/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+      },
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/37962C1631354F4D3906B5E5C66930091CDA3916C612B4F550CC48C309EA27D8/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+      },
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4060D1CA5ACEAC60C20B1BA8C41EE8B81C7B973CF02042466C5AAF0AFF5836F7/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+      },
+      {
+        "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EBC6DA00E935F20959010FCBE4850EFF2AA0DC6B2997A38EEB4BEABDA0E7E27D/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+      }
+    ]
+  }
+}
