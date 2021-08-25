@@ -6,13 +6,17 @@ export const Container = styled.div`
   align-items: center;
   justify-content: space-between;
   background: #090b13;
-  padding: 10px 36px;
+  padding: 0 36px;
   z-index: 3;
 
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
+`
+
+export const Wrapper = styled.div`
+  display: flex;
 `
 
 export const ImageProfile = styled(Image)`
