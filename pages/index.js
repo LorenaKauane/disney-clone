@@ -16,6 +16,18 @@ export default function Home() {
         title={jsonMovies.recommend.title}
         movies={jsonMovies.recommend.movies}
       />
+      <SectionFilm
+        title={jsonMovies.news.title}
+        movies={jsonMovies.news.movies}
+      />
+      <SectionFilm
+        title={jsonMovies.originals.title}
+        movies={jsonMovies.originals.movies}
+      />
+      <SectionFilm
+        title={jsonMovies.emmyNominee.title}
+        movies={jsonMovies.emmyNominee.movies}
+      />
     </Main>
   )
 }

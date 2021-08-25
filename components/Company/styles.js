@@ -13,7 +13,6 @@ export const Item = styled.div`
   border: 3px solid rgb(249, 249, 249, 0.1);
   cursor: pointer;
   background: linear-gradient(rgb(48, 50, 62), rgb(30, 31, 42));
-  transform: scale(1.05);
   box-shadow: rgb(0 0 0 / 10%) 0px 40px 58px -16px,
     rgb(0 0 0 / 72%) 0px 30px 22px -10px;
 

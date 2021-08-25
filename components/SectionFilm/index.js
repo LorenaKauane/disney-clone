@@ -1,4 +1,5 @@
 import React from "react"
+import FilmSlider from "./FilmSlider"
 
 import { Container, TitleSection } from "./styles"
 
@@ -6,7 +7,7 @@ function SectionFilm({ title, movies }) {
   return (
     <Container>
       <TitleSection>{title}</TitleSection>
-      <div>Movies</div>
+      <FilmSlider movies={movies} />
     </Container>
   )
 }
